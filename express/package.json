@@ -1,0 +1,28 @@
+{
+  "name": "ice-cream-manager",
+  "version": "1.0.0",
+  "description": "manager for different selection of ice cream flavors",
+  "keywords": [
+    "ice",
+    "cream",
+    "express"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "express, ice cream "
+  },
+  "license": "ISC",
+  "author": "MMatthew14",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
